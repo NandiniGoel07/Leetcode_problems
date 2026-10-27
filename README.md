@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0507-perfect-number) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 ## Enumeration
@@ -77,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
