@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0507-perfect-number) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 ## Enumeration
@@ -85,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
