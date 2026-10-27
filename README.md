@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0283-move-zeroes) |
