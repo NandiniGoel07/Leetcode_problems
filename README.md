@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 ## Enumeration
 |  |
 | ------- |
