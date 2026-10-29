@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
 ## DP on Trees
 |  |
@@ -122,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
