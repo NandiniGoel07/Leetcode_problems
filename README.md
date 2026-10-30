@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
@@ -145,5 +146,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
