@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NandiniGoel07/Leetcode_problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
